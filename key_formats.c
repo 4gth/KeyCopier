@@ -40,7 +40,8 @@ const KeyFormat all_formats[] = {
     .max_depth_ind = 9,
     .macs = 7,
     .clearance = 8
-    }
+    },
+
     {
     .manufacturer = "Lockwood",
     .format_name = "LW4",
@@ -59,7 +60,8 @@ const KeyFormat all_formats[] = {
     .max_depth_ind = 9,
     .macs = 7,
     .clearance = 8
-    }
+    },
+
     {
     .manufacturer = "Lockwood",
     .format_name = "LW5",
